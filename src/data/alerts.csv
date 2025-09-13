@@ -1,0 +1,7 @@
+timestamp,severity,source,message
+2024-09-03 04:11:00,critical,DB,SSL certificate nearing expiry window
+2024-09-03 05:46:00,critical,Sales API,RPC latency above threshold
+2024-09-11 04:02:00,info,DB,SSL certificate nearing expiry window
+2024-09-14 03:06:00,info,DB,SSL certificate nearing expiry window
+2024-09-18 08:34:00,warning,Sales API,Spike in API error rate
+2024-09-18 17:18:00,warning,RPC,Discord bot offline detected
